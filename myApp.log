@@ -1,0 +1,6 @@
+2017-06-28 16:10:32,024 INFO [main] c.c.MyApp1 [MyApp1.java:33] Entering application.
+2017-06-28 16:10:32,024 DEBUG [main] c.c.Foo [Foo.java:14] Did it again!
+2017-06-28 16:10:32,024 INFO [main] c.c.MyApp1 [MyApp1.java:37] Exiting application.
+2017-06-28 16:24:36,852 INFO [main] c.c.MyApp1 [MyApp1.java:33] Entering application.
+2017-06-28 16:24:36,852 DEBUG [main] c.c.Foo [Foo.java:14] Did it again!
+2017-06-28 16:24:36,852 INFO [main] c.c.MyApp1 [MyApp1.java:37] Exiting application.
